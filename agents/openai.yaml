@@ -1,0 +1,7 @@
+interface:
+  display_name: "初次使用者流程文档"
+  short_description: "编写可直接执行的部署与运维流程"
+  default_prompt: "Use $first-time-ops-docs to make this operations document safe and executable for a first-time user."
+
+policy:
+  allow_implicit_invocation: true
